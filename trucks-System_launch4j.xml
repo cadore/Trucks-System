@@ -1,0 +1,29 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>E:\CADORE\Programação\JavaSE\Backup-truck_system\trucks_system\store\trucks_system.jar</jar>
+  <outfile>E:\CADORE\Programação\JavaSE\Backup-truck_system\trucks_system\store\start_truckssystem.exe</outfile>
+  <errTitle>Erro do Java</errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>high</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>E:\CADORE\Programação\JavaSE\Backup_SystemNotesEmission\SystemNotesEmission\src\Images\icone.ico</icon>
+  <jre>
+    <path></path>
+    <minVersion>1.2.5</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+  <messages>
+    <startupErr>Ocorreu um erro ao iniciar o aplicativo, por favor queira reiniciar o seu computador caso o erro volte a repetir.</startupErr>
+    <bundledJreErr>Esta aplicação foi configurado para usar um Java Runtime Environment(JRE) empacotado, mas o tempo de execução está ausente ou corrompido.</bundledJreErr>
+    <jreVersionErr>Esta aplicação requer Java(JRE) para poder ser executada! Versão minima do JRE: </jreVersionErr>
+    <launcherErr>O registro se refere a um inexistente de instalação do Java Runtime Environment ou o tempo de execução está corrompido.</launcherErr>
+    <instanceAlreadyExistsMsg>Uma instância do aplicativo já está em execução.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
